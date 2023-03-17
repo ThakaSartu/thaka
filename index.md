@@ -8,6 +8,9 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
+
+<IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg" >
+	<hr>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/l1EK8Pcy0us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![M1_APPLESEED](https://static.wikia.nocookie.net/ipod/images/0/0d/Core_ML_icon.png)
