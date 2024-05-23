@@ -8,8 +8,103 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
-[i_LOVE_MY_FAMiLY](https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg)
-<IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg" >
+
+# [Mars Science Laboratory: Curiosity Raw Images](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl)
+
+<video controls width="100%" height="auto" poster="https://mars.nasa.gov/system/resources/detail_files/27698_e2-PIA26042-Curiosity's-Path-Beyond-Gediz-Vallis-Ridge-still-web.jpg">
+    
+<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+
+## Normanie... I love you
+
+<div class="panel4-container">
+
+  <div class="item1">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/5DlSbwa.jpg">
+  </div>
+
+  <div class="item2">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/XyUmyb9.jpg">
+  </div>
+
+  <div class="item3">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/5DlSbwa.jpg">
+  </div>
+
+  <div class="item4">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/XyUmyb9.jpg">
+  </div>
+
+</div>
+
+
+  
+
+
+<div class="panel4-container">
+
+  <div class="item1">
+    <video width="250" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item2">
+    <video width="300" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item3">
+    <video width="300" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item4">
+    <video width="250" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+</div>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" class="background">
+<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-2956x764-1.mov" type="video/mp4" />
+<source src="https://vossenwheels.com/wp-content/uploads/2020/01/HF6-3-956x764-.mp4" type="video/mp4" />
+<source src="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" type="video/mp4" />
+						</video>
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" class="background">
+							<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" type="video/mp4" />
+              <source src="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" type="video/mp4" />
+						</video>
+  </div>
+  </div>
+  </div>
+</div>
 
   
 # Sartu
@@ -25,8 +120,44 @@ I saw you last night. Its criminal what they do to us ya know. Just know I know 
   <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
 </div>
 
+## APPLESEED
+<!-- BEGIN_CODE_BLOCK -->
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<div id="rollovercontainer">
+  <div class='twoPanelSpread'>
+    <div class='row'>
+      <div class='panelColumn'>
+        <div class='leftColumn'>
+<a href="https://youtu.be/m32kuG5HcBQ" class="rollover">
+            <img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
+            <img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
+          </a>
+        </div>
+      </div>
+      <div class='panelColumn'>
+        <div class='rightColumn'>
+          <a href="https://youtu.be/BzW45zDDQRA" class="rollover">
+<img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
+           
+<img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<!-- END_CODE_BLOCK -->
 
 [For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
+
+<div class="flex-container">
+       
+        <div class="item1">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" /></div>
+        <div class="item2">                        <img src="https://mars.nasa.gov/system/resources/detail_files/25690_2-PIA24338-800.gif" /></div>
+        <div class="item3">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1006_PIA24489-3-ncamRRWheel-800px.gif" /></div>
+    </div> 
+
 
 <div class="twoPanelSpread">
   <div class="row">
@@ -113,73 +244,11 @@ I saw you last night. Its criminal what they do to us ya know. Just know I know 
 <!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
 <!-- END_CODE_BLOCK -->
 
-## Normanie... I love you
-<div class="panel4-container">
 
-  <div class="item1">
-<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/5DlSbwa.jpg">
-  </div>
 
-  <div class="item2">
-<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/XyUmyb9.jpg">
-  </div>
 
-  <div class="item3">
-<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/5DlSbwa.jpg">
-  </div>
 
-  <div class="item4">
-<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/XyUmyb9.jpg">
-  </div>
 
-</div>
-<div class="panel4-container">
-
-  <div class="item1">
-    <video width="250" autoplay="" loop="" muted="">
-      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
-
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div class="item2">
-    <video width="300" autoplay="" loop="" muted="">
-      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
-
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div class="item3">
-    <video width="300" autoplay="" loop="" muted="">
-      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div class="item4">
-    <video width="250" autoplay="" loop="" muted="">
-      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
-
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-</div>
-<video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" class="background">
-<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-2956x764-1.mov" type="video/mp4" />
-<source src="https://vossenwheels.com/wp-content/uploads/2020/01/HF6-3-956x764-.mp4" type="video/mp4" />
-<source src="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" type="video/mp4" />
-						</video>
-<video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" class="background">
-							<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" type="video/mp4" />
-              <source src="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" type="video/mp4" />
-						</video>
-<IMG src="https://d3tye5etyupvvn.cloudfront.net/img/alloy-wheels-rims-tsw-5-lugs-valencia-chrome-lay-700.jpg">
-<IMG src="https://www.vividracing.com/blog/wp-content/uploads/cast-vs-forged-featured-750x375.jpg">
-
-[Cast Wheels vs Forged Wheels: What’s the Real Difference](https://www.vividracing.com/blog/cast-wheels-vs-forged-wheels-whats-the-real-difference/)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/352622777&color=%23fffb00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-557982797" title="LilFerg4real" target="_blank" style="color: #cccccc; text-decoration: none;">LilFerg4real</a> · <a href="https://soundcloud.com/user-557982797/lil-ferg-range-rover" title="LIL FERG -RANGE ROVER" target="_blank" style="color: #cccccc; text-decoration: none;">LIL FERG -RANGE ROVER</a></div>
 <hr>
 
