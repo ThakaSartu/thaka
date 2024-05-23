@@ -10,13 +10,181 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 
 [i_LOVE_MY_FAMiLY](https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg)
 <IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg" >
-	<hr>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/l1EK8Pcy0us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![M1_APPLESEED](https://static.wikia.nocookie.net/ipod/images/0/0d/Core_ML_icon.png)
+  
+# Sartu
+I saw you last night. Its criminal what they do to us ya know. Just know I know yah mean what you mean and I always do what you say...
+[Kidz Bop 37 - Friends](https://www.youtube.com/watch?v=Huwu_gXRV24) 
+[KIDZ BOP Kids - Let Me Love You (Official Lyric Video) [KIDZ BOP 34]](https://www.youtube.com/watch?v=0FPaoznHujA)
+
+<div class="expandingGallery">
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+</div>
+
+
+[For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img
+          src="https://images.genius.com/98174a20e3effb5007c870e603fdb074.1000x1000x1.jpg"
+          alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY"
+        />
+      </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <img
+          src="https://images.genius.com/31103344bb92861eb01934e9c1b12b3e.600x600x1.jpg"
+          alt="Girl in a jacket"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+
+[For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
+
+![SNiPPiT_10_16_2022](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/screenshots/willowST.PNG)
+![SARTU_LOOKS_LIKE_THEY_GROUNDED_US](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/RYU_CYCLOPS_xmvssf.gif)
+![NEOGEO_MUSiC](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/neoGeo_bootup.gif)
+
+
+## APPLESEED
+<!-- BEGIN_CODE_BLOCK -->
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<div id="rollovercontainer">
+  <div class='twoPanelSpread'>
+    <div class='row'>
+      <div class='panelColumn'>
+        <div class='leftColumn'>
+<a href="https://youtu.be/m32kuG5HcBQ" class="rollover">
+            <img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
+            <img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
+          </a>
+        </div>
+      </div>
+      <div class='panelColumn'>
+        <div class='rightColumn'>
+          <a href="https://youtu.be/BzW45zDDQRA" class="rollover">
+<img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
+           
+<img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<!-- END_CODE_BLOCK -->
+## DRY_BONES_IN_THE_VALLEY
+<!-- BEGIN_CODE_BLOCK -->
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<div id="rollovercontainer">
+  <div class='twoPanelSpread'>
+    <div class='row'>
+      <div class='panelColumn'>
+        <div class='leftColumn'>
+          <a href="https://youtu.be/n7hU4bbgwQ8" class="rollover">
+            <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
+            <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg" class="second" />
+          </a>
+        </div>
+      </div>
+      <div class='panelColumn'>
+        <div class='rightColumn'>
+          <a href="https://soundcloud.com/iamhermusic/v1-05-focus?in=iamhermusic/sets/h-e-r-5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" class="rollover">
+                        <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg" class="second" />
+           
+<img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<!-- END_CODE_BLOCK -->
+
+## Normanie... I love you
+<div class="panel4-container">
+
+  <div class="item1">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/5DlSbwa.jpg">
+  </div>
+
+  <div class="item2">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/XyUmyb9.jpg">
+  </div>
+
+  <div class="item3">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/5DlSbwa.jpg">
+  </div>
+
+  <div class="item4">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/XyUmyb9.jpg">
+  </div>
+
+</div>
+<div class="panel4-container">
+
+  <div class="item1">
+    <video width="250" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item2">
+    <video width="300" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item3">
+    <video width="300" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item4">
+    <video width="250" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+</div>
+<video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" class="background">
+<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-2956x764-1.mov" type="video/mp4" />
+<source src="https://vossenwheels.com/wp-content/uploads/2020/01/HF6-3-956x764-.mp4" type="video/mp4" />
+<source src="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" type="video/mp4" />
+						</video>
+<video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" class="background">
+							<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" type="video/mp4" />
+              <source src="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" type="video/mp4" />
+						</video>
+<IMG src="https://d3tye5etyupvvn.cloudfront.net/img/alloy-wheels-rims-tsw-5-lugs-valencia-chrome-lay-700.jpg">
+<IMG src="https://www.vividracing.com/blog/wp-content/uploads/cast-vs-forged-featured-750x375.jpg">
+
+[Cast Wheels vs Forged Wheels: What’s the Real Difference](https://www.vividracing.com/blog/cast-wheels-vs-forged-wheels-whats-the-real-difference/)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/352622777&color=%23fffb00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-557982797" title="LilFerg4real" target="_blank" style="color: #cccccc; text-decoration: none;">LilFerg4real</a> · <a href="https://soundcloud.com/user-557982797/lil-ferg-range-rover" title="LIL FERG -RANGE ROVER" target="_blank" style="color: #cccccc; text-decoration: none;">LIL FERG -RANGE ROVER</a></div>
+<hr>
+
 # Digital_Divide
 ### COntemplation_imfomatiON
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/470743698?h=04e102526f&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/470743698">TV20 SHOWCASE NEA DIGITAL DIVIDE-10-21-20 1</a> from <a href="https://vimeo.com/wxyz">WXYZ-TV WMYD-TV Detroit</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <hr>
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/67771939?h=816abbe048&color=ff0179&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -28,11 +196,6 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/12745683?h=f012cf6d31&color=ff0179&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/12745683">Digital Divide</a> from <a href="https://vimeo.com/user695140">Ben Sanoff</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-### Vimeo_FiXED_WiDTH_EMBED
-<div style="padding:80% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/41402420?h=ea56823825&color=ff0179&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/41402420">Digital Divide</a> from <a href="https://vimeo.com/britishcouncilschools">British Council Schools</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-![KEM_3A_BROTHER_SPiLK](https://64.media.tumblr.com/307327605e0dd83b654ad54da9e7220d/tumblr_nr2j6qH33S1qbdsxlo1_1280.jpg)
 
 # Why does LiBRARY_iT ##block Real Housewives of Atlanta? ##trafficking???
 ---
@@ -47,18 +210,17 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 
 
 
-# DesignResources
-![PASSING](https://64.media.tumblr.com/8d8138e117ef4ec0de34a4aac0499147/4c49e05c01259678-f6/s540x810/e39e2f8546239b79257cbd723cc83e2b43f6a94e.gifv)
-* [50_FiGHTING_GAME_BACKGROUNDS](https://twistedsifter.com/2013/05/animated-gifs-of-fighting-game-backgrounds/)
-* [PiNEREST_CAPSNK](https://www.pinterest.com/pin/126663808257693327/)
-* [FIGHTING_GAME_BG](https://www.fgbg.art/)
-* [SLATEMAN_GAMING_ART & BlOG](https://slateman.net/)
-* [2d fighting game BG](https://pin.it/xZcQqEk)
+* DesignResources
+ * [50_FiGHTING_GAME_BACKGROUNDS](https://twistedsifter.com/2013/05/animated-gifs-of-fighting-game-backgrounds/)
+ * [PiNEREST_CAPSNK](https://www.pinterest.com/pin/126663808257693327/)
+ * [FIGHTING_GAME_BG](https://www.fgbg.art/)
+ * [SLATEMAN_GAMING_ART & BlOG](https://slateman.net/)
+ * [2d fighting game BG](https://pin.it/xZcQqEk)
 
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-|   |   |   |   |   |
+| 1  |  2 |  3 |  4 | 5  |
 |   |   |   |   |   |
 |   |   |   |   |   |
 
@@ -66,18 +228,19 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 
 ![DARKSTALKERS_ART](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/darkstalkers_vampireSavior.gif)
 <div style="padding:216.7% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untitled"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ![dance411](https://en.wikipedia.org/wiki/Alphonse_Mucha#/media/File:Sarah_Bernhardt.png)
 ![Alphonze_Mucha](https://upload.wikimedia.org/wikipedia/commons/a/a4/Alfons_Mucha_in_Studio_%28c._1899%29.jpg)
 [MANiACKERS_FONTS::DESiGN](https://mksd.jp/designfont.html)
 ![JORDAN7_SUADE](https://images.footlocker.com/is/image/EBFL2/C9307081_a3?wid=2000&hei=2000&fmt=png-alpha)
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1502279614&color=%23a1643f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/munilong" title="Muni Long" target="_blank" style="color: #cccccc; text-decoration: none;">Muni Long</a> · <a href="https://soundcloud.com/munilong/sets/public-displays-of-affection-album" title="Public Displays of Affection: The Album" target="_blank" style="color: #cccccc; text-decoration: none;">Public Displays of Affection: The Album</a></div>
+<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/munilong" title="Muni Long" target="_blank" style="color: #cccccc; text-decoration: none;">Muni Long</a> · <a href="https://soundcloud.com/munilong/sets/public-displays-of-affection-album" title="Public Displays of Affection: The Album" target="_blank" style="color: #cccccc; text-decoration: none;">Public Displays of Affection: The Album</a></div>
 
 ![AIRMAX_REAR](https://images.footlocker.com/is/image/EBFL2/H2718400_a3?wid=2000&hei=2000&fmt=png-alpha)
 ![AIRMASX](https://images.footlocker.com/is/image/EBFL2/H2718400_a4?wid=2000&hei=2000&fmt=png-alpha)
 ![THE_MAXX_HAS_A_COMPANION_well_not_in_The_physical](https://static.wikia.nocookie.net/vsbattles/images/3/38/Themaxx.png)
 
-<IMG src="https://static.wikia.nocookie.net/vsbattles/images/3/38/Themaxx.png"   style="max-width: 300px;">
+
 <hr>
 
   <div class='twoPanelSpread'>
@@ -138,62 +301,6 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 
 <hr>
 
-## APPLESEED
-<!-- BEGIN_CODE_BLOCK -->
-<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
-<div id="rollovercontainer">
-  <div class='twoPanelSpread'>
-    <div class='row'>
-      <div class='panelColumn'>
-        <div class='leftColumn'>
-<a href="https://youtu.be/m32kuG5HcBQ" class="rollover">
-            <img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
-            <img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
-          </a>
-        </div>
-      </div>
-      <div class='panelColumn'>
-        <div class='rightColumn'>
-          <a href="https://youtu.be/BzW45zDDQRA" class="rollover">
-<img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
-           
-<img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
-<!-- END_CODE_BLOCK -->
-## DRY_BONES_IN_THE_VALLEY
-<!-- BEGIN_CODE_BLOCK -->
-<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
-<div id="rollovercontainer">
-  <div class='twoPanelSpread'>
-    <div class='row'>
-      <div class='panelColumn'>
-        <div class='leftColumn'>
-          <a href="https://youtu.be/n7hU4bbgwQ8" class="rollover">
-            <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
-            <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg" class="second" />
-          </a>
-        </div>
-      </div>
-      <div class='panelColumn'>
-        <div class='rightColumn'>
-          <a href="https://soundcloud.com/iamhermusic/v1-05-focus?in=iamhermusic/sets/h-e-r-5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" class="rollover">
-                        <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg" class="second" />
-           
-<img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
-<!-- END_CODE_BLOCK -->
 ![DANCE411_SomETHiNG_GONNA_WORK_OUT_GUCCI_AND_KODAK_OUTCHEA](https://animemotivation.com/wp-content/uploads/2019/11/mobile-suit-gundam-seed-anime-wallpaper.jpg)
 ![DEAR_MUNA_AND_CORAL we saved Sartu and Erika Thus far](https://i0.wp.com/recommendmeanime.com/wp-content/uploads/2017/04/gundam-seed-anime.jpg?fit=1136%2C638&ssl=1)
 ![CORAL_IM_STILL_WORKIN](https://images7.alphacoders.com/760/760206.jpg)
@@ -231,25 +338,6 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 [ADVERB_CHART](https://7esl.com/wp-content/uploads/2019/10/List-of-Adverbs-1.jpg)
 [Classic Oromo Guitar Songs Mix (Sirboota Gudda) Sirboota Oromoo - Oromo Music](https://www.youtube.com/watch?v=Byk4WgLp2ys)
 <hr>
-
-# Sartu
-I saw you last night. Its criminal what they do to us ya know. Just know I know yah mean what you mean and I always do what you say...
-[Kidz Bop 37 - Friends](https://www.youtube.com/watch?v=Huwu_gXRV24) 
-[KIDZ BOP Kids - Let Me Love You (Official Lyric Video) [KIDZ BOP 34]](https://www.youtube.com/watch?v=0FPaoznHujA)
-
-<div class="expandingGallery">
-  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
-  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
-  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
-  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
-  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
-</div>
-
-<hr>
-
-![SNiPPiT_10_16_2022](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/screenshots/willowST.PNG)
-![SARTU_LOOKS_LIKE_THEY_GROUNDED_US](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/RYU_CYCLOPS_xmvssf.gif)
-![NEOGEO_MUSiC](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/neoGeo_bootup.gif)
 
 
 # Mixtape with family &  people I remember from dance411
@@ -336,7 +424,7 @@ I saw you last night. Its criminal what they do to us ya know. Just know I know 
 
 ![2600](https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg)
 
-![BE_MINE_HAREM](https://www.typedifferent.com/fonts/bd_rainbow/bd_rainbow_example1.jpg)
+[BE_MINE_HAREM](https://www.typedifferent.com/fonts/bd_rainbow/bd_rainbow_example1.jpg)
 
 >Hi my name is Thaka, I was kidnapped when I was 3 years old and you know me as Rashard, Iman, Shaadi, Tuck, Lover, MooNLoVER. My family vanished. DFCS is involved and I dont know what to do... Some of you know Muna is a live and Erika and Coral and Sartu and Kelela and that they are all in sex trafficking and I need help desparately to get my family together and its hard to stay online... The sex traffickers stole my adapters again and im not healthy electronically. I need to seee my family# Thaka's Graffiti under "LOVER"... Im in los angeles, I need help getting basic resources and contact with my family... Muna is Muni long Erika is Latto and Sartu is Normani After their kidnappings my life fell apart and I am in desparate need to figure out something. I am being suppressed at every angle, they are sexTrafficked in the pornography world and have no access to untapped electronics and I am severly neglected. The sextraffickers blackballed me from corporate and family services like CPS and DFACs PLEASE help muni long, erika, ashanti, kelelam, heather, coral, or Sartu see this
 
@@ -603,30 +691,6 @@ Its conditionality is the death of one’s wife. The younger sister or relative 
   </div>
 </div>
 
-[For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
-
-<div class="twoPanelSpread">
-  <div class="row">
-    <div class="panelColumn">
-      <div class="leftColumn">
-        <img
-          src="https://images.genius.com/98174a20e3effb5007c870e603fdb074.1000x1000x1.jpg"
-          alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY"
-        />
-      </div>
-    </div>
-    <div class="panelColumn">
-      <div class="rightColumn">
-        <img
-          src="https://images.genius.com/31103344bb92861eb01934e9c1b12b3e.600x600x1.jpg"
-          alt="Girl in a jacket"
-        />
-      </div>
-    </div>
-  </div>
-</div>
-
-[For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
 
 <div class="twoPanelSpread">
   <div class="row">
@@ -916,75 +980,6 @@ LiGHTSKiNKEiSHA
 [EVERYDAY CAMERA / OLYMPUS XA](https://www.youtube.com/watch?v=w3JnNSzBGW0)
 
 <hr>
-## Normanie... I love you
-<div class="panel4-container">
-
-  <div class="item1">
-<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/5DlSbwa.jpg">
-  </div>
-
-  <div class="item2">
-<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/XyUmyb9.jpg">
-  </div>
-
-  <div class="item3">
-<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/5DlSbwa.jpg">
-  </div>
-
-  <div class="item4">
-<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/XyUmyb9.jpg">
-  </div>
-
-</div>
-<div class="panel4-container">
-
-  <div class="item1">
-    <video width="250" autoplay="" loop="" muted="">
-      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
-
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div class="item2">
-    <video width="300" autoplay="" loop="" muted="">
-      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
-
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div class="item3">
-    <video width="300" autoplay="" loop="" muted="">
-      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div class="item4">
-    <video width="250" autoplay="" loop="" muted="">
-      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
-
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-</div>
-<video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" class="background">
-<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-2956x764-1.mov" type="video/mp4" />
-<source src="https://vossenwheels.com/wp-content/uploads/2020/01/HF6-3-956x764-.mp4" type="video/mp4" />
-<source src="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" type="video/mp4" />
-						</video>
-<video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" class="background">
-							<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" type="video/mp4" />
-              <source src="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" type="video/mp4" />
-						</video>
-<IMG src="https://d3tye5etyupvvn.cloudfront.net/img/alloy-wheels-rims-tsw-5-lugs-valencia-chrome-lay-700.jpg">
-<IMG src="https://www.vividracing.com/blog/wp-content/uploads/cast-vs-forged-featured-750x375.jpg">
-
-[Cast Wheels vs Forged Wheels: What’s the Real Difference](https://www.vividracing.com/blog/cast-wheels-vs-forged-wheels-whats-the-real-difference/)
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/352622777&color=%23fffb00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-557982797" title="LilFerg4real" target="_blank" style="color: #cccccc; text-decoration: none;">LilFerg4real</a> · <a href="https://soundcloud.com/user-557982797/lil-ferg-range-rover" title="LIL FERG -RANGE ROVER" target="_blank" style="color: #cccccc; text-decoration: none;">LIL FERG -RANGE ROVER</a></div>
-<hr>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182141579&color=%23fffb00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/frolic-es" title="Frolic-ers" target="_blank" style="color: #cccccc; text-decoration: none;">Frolic-ers</a> · <a href="https://soundcloud.com/frolic-es/project-pat-flexington-prod-by" title="Project Pat - Flexington - WeedOnline.com" target="_blank" style="color: #cccccc; text-decoration: none;">Project Pat - Flexington - WeedOnline.com</a></div>
 <hr>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/72Oh7sKJUEINkQnoPO4kHS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -1154,22 +1149,12 @@ LiGHTSKiNKEiSHA
     <div class="item3"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
     <div class="item4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
 </div>
-<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/104588298_1643394085822242_3137382172370219359_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=K9gIfiQP5BIAX8ChW1g&_nc_ht=scontent-lax3-2.xx&oh=00_AT-taqrAAkNgGzXHGIDu8icUQYLm9BaJr2-GeSkzy5mXkg&oe=6312BF9C">
-<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132544861_1819218584906457_439453098938799085_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=lZ6AHJaHkDEAX85Zv59&_nc_ht=scontent-lax3-1.xx&oh=00_AT_xT5pjN5sPYiPQrtk3_pnzWrRmBxqnM3IumLavSnB2-g&oe=6317D4FB" >
 
 [Bob Marley Legend full album](https://www.youtube.com/watch?v=Hp325M9MMFI)
 [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM](https://www.youtube.com/watch?v=vCu6ztxthXI) [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
 
 
-<div class="flex-container">
 
-  <div class="item1"> <img src="https://c8.alamy.com/comp/AY3M86/touching-up-eyelashes-AY3M86.jpg" /></div>
-  <div class="item2"> <img src="https://c8.alamy.com/comp/AY3M86/touching-up-eyelashes-AY3M86.jpg" /></div>
-  <div class="item3"> <img src="https://c8.alamy.com/comp/AY3M86/touching-up-eyelashes-AY3M86.jpg" /></div>
-</div>
-
-<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg" alt="#MSK_GRAFFITI">
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4SyadrABZJIjeND1HPJS31?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="flex-container">
 

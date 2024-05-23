@@ -151,20 +151,26 @@ table {
   border-spacing: 0;
 }
 
+html {
+  font: normal 10px/18px "Comfortaa", -apple-system, Ubuntu, "Ariel Black","IBM Plex Sans", "Lucida Sans Unicode", verdana, lucida,
+    sans-serif;
+    background-image: url("https://fgbg.art/static/sf33s_elena-42a4b392b967c420b5ccd598b98be262.gif");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  font-size: 140%;
+  height: 100%;
+  width: 100%;
+
+} 
 
 body {
   margin: 0;
   padding: 0;
   color: wheat;
-  background-color: #010a00;
-  background-image: url("https://fgbg.art/static/sf33s_elena-42a4b392b967c420b5ccd598b98be262.gif");
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-  font-size: 16px;
   line-height: 1.5;
-  font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+
 }
 
 
@@ -202,30 +208,43 @@ li {
    h2       - project description
 */
 
-header {
-  background: rgba(0, 0, 0, 0.1);
-  width: 100%;
-  border-bottom: 1px dashed $conifer; //header;
-  padding: 20px 0;
-  margin: 0 0 40px 0;
-}
 
-/*
 header h1 {
-  font-size: 30px;
+  font-size: 3rem;
   line-height: 1.5;
   margin: 0 0 0 -40px;
-  font-weight: bold;
-  font-family: 'Rubik Burned', cursive;
-  color: $conifer;//$header;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
-  letter-spacing: -1px;
+  font-family: 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+  color: $conifer; //$header;
+  /* text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 0 5px rgba(181, 232, 83, 0.1),
+    0 0 10px rgba(181, 232, 83, 0.1);  */
+    color: #fff;
+    font-size: 100px;
+font-weight: 900;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0DCBFF,
+        0 0 82px #0DCBFF,
+        0 0 92px #0DCBFF,
+        0 0 102px #0DCBFF,
+        0 0 125px #0DCBFF;
+    letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
+  webkit-background-clip: text;
+  -moz-background-clip: text;
+       background-clip: text;
+       animation-fill-mode: forwards;
+animation: fadeIn 5s;
+-webkit-animation: fadeIn 5s;
+-moz-animation: fadeIn 5s;
+-o-animation: fadeIn 5s;
+-ms-animation: fadeIn 5s;
   @include media-max-width($container-max-width) {
     margin-left: 0;
   }
+
 }
 
 
