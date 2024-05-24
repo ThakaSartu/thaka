@@ -8,7 +8,63 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5YMYrB0dqoU?si=GD9Pau7EnVllxKvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![NintendoPower](https://pbs.twimg.com/media/GOTYvV9bQAA94lC?format=jpg&name=large)
+[NinTendoPower](https://archive.org/details/NintendoPower1988-2004/Nintendo%20Power%20Issue%20065%20%28October%201994%29/page/n7/mode/2up) 
+
+<a href="https://pbs.twimg.com/media/GOTRtT7bYAA27oV?format=jpg&name=large"> <img src="https://pbs.twimg.com/media/GOTRtT7bYAA27oV?format=jpg&name=large" style="width:300px;height:400px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> </a>
+
+# Hi Chloe
+
+I wrote you a [letter](https://thakasartu.github.io/chloe/) a bout a year ago about the fact that alot of folks done got hurt in California! I claimed you as my wife bc I was told to call ppl i know my wife by Muna in some distorted Kidnap Message. NBAYOUNGBOY girl got kidnapped too! Do you read 2600_Magazine? Likely not its kinda hard to come across,  began reading whenI was at Savannah Tech at the Old Mall Barnes an Noble there was a lot of high powered computer science students at the local military base. Now that Im in Los Angeles with you! Did you know that Nasa is our local military? #Smartcities. If you mad i called you my wife just cross out my graffiti next time i tag on a Hollywood curb. Here are some impotant tweets that can affect you, Coral is still missing an @Normani is Manessa from FamilyServices like yall got intersecting lives professionally in my personal life and vice versa. Im super clean shawtay!
+
+## Important Tweets
+```
+https://x.com/RicoThaka/status/1779242374008627646
+https://x.com/MooNLOVER404/status/1787931912746729476
+https://x.com/BubbleGumPop510/status/1723475724487794917
+https://x.com/BubbleGumPop510/status/1724607518507463110
+https://x.com/MooNLOVER404/status/1787540718044815693
+https://x.com/RicoThaka/status/1787543806445068779
+https://x.com/BubbleGumPop510/status/1786842953903992879
+https://x.com/BubbleGumPop510/status/1786114448224317834
+https://x.com/BubbleGumPop626/status/1785767427898495199
+https://x.com/BubbleGumPop510/status/1737673741470212416
+https://x.com/RicoThaka/status/1784290786898805232
+```
+
+![NintendoPower](https://pbs.twimg.com/media/GOTYvV9bQAA94lC?format=jpg&name=large)
+[NinTendoPower](https://archive.org/details/NintendoPower1988-2004/Nintendo%20Power%20Issue%20065%20%28October%201994%29/page/n7/mode/2up) 
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://pbs.twimg.com/media/GOTaROZagAAGr4i?format=jpg&name=large"><img src="https://pbs.twimg.com/media/GOTaROZagAAGr4i?format=jpg&name=large" alt=""> </a>
+</div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://pbs.twimg.com/media/GOTbLJXasAACnNn?format=jpg&name=large"><img src="https://pbs.twimg.com/media/GOTbLJXasAACnNn?format=jpg&name=large" alt=""> </a>
+  </div>
+  </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -26,7 +82,7 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
   and watch it with your favorite video player!
 </video>
 
-      </div>
+</div>
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
@@ -50,10 +106,12 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
         <a href="">MP4</a>
         video.
 </video>
+
+
 <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
     </object>
 
-## Normanie... I love you
+## Normani... I love you
 
 <div class="panel4-container">
 
